@@ -1,2 +1,3 @@
-console.log("Hello World");
-console.log("second change");
+let firstName = "Debbie";
+let greeting = "Hello" + firstName;
+console.log(greeting);
